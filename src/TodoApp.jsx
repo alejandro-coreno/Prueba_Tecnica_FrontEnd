@@ -8,7 +8,7 @@ const TodoApp = () =>  {
 
   return (
     
-    <div className="w-full border p-4 flex items-center justify-center">
+    <div className="w-full h-64 p-4 flex items-center justify-center">
         <div className="flex flex-col gap-2 w-[50%]">
           <h1 className="text-xl font-medium text-sky-600">Lista de Tareas</h1>
           
