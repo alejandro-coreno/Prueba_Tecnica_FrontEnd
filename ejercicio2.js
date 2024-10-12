@@ -15,4 +15,4 @@ const fetchUserData = async () => {
     }
 }
 
-fetchUserData().then((result) => console.log( result ) )
+fetchUserData().then((result) => console.log( result ) );
